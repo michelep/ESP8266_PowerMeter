@@ -3,7 +3,7 @@ A simple but effective power meter based on INA219 and ESP8266 (Wifi and MQTT)
 
 ## What is this?
 
-It's a simple power meter that i've build to find the best place to install a solar panel. Using a small solar panel and a solar LiPo charger controller, i was able to measure how many power I 
+It's a simple power meter that I build to find the best place to install a solar panel all around my house. Using a small solar panel and a solar LiPo charger controller, i was able to measure how many power I 
 can have with different expositions and places.
 
 Data were sent via MQTT to a broker, to be stored and analyzed.
