@@ -16,4 +16,6 @@ INA219 is connected via I2C bus, using D1 (SDA) and D2 (SCL) pin.
 
 TM1637 7-segment LED display is connected via D5 (CLK) and D6 (DIO) pin.
 
+![Schematic](https://raw.githubusercontent.com/michelep/ESP8266_PowerMeter/master/assets/schematic.png)
+
 ![ESP8266_PowerMeter](https://raw.githubusercontent.com/michelep/ESP8266_PowerMeter/master/assets/asset_1.jpg)
